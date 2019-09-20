@@ -5,8 +5,8 @@
 
 |                                      [Roman Jordan](https://github.com/roman-jordan)                                     | 
 | :----------------------------------------------------------------------------------------------------------------------: | 
-|      [<img src="https://avatars1.githubusercontent.com/u/36455310?s=460&v=4" width = "200" />](https://github.com/)      | 
-|                [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/roman-jordan)                 | 
+|      [<img src="https://github.com/roman-jordan" width = "200" />](https://github.com/roman-jordan)      | 
+|      [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/roman-jordan)                 | 
 | [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/in//)        | 
 
 
