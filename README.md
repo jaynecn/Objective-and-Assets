@@ -7,9 +7,10 @@ In a world with everything shouting for your attention, the disciplined pursuit 
 ## MVP
 1. An on-boarding process for a new user
 2. Create a page that shows a list of values. User will swipe right or left (or tap a check or x button) if that value is important to them. 
-  *Athletic ability
-  *Art and literature
-  *Creativity, discovering, or inventing things to make a difference in the world 
+### General List
+  * Athletic ability
+  * Art and literature
+  * Creativity, discovering, or inventing things to make a difference in the world 
   * Independence 
   * Kindness and generosity 
   * Living in the moment 
