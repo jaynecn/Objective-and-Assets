@@ -80,3 +80,5 @@ Clone this document and answer the prompts to the best of your team's ability
 ---
 
 - This is the “bread and butter” of the app, this is what makes your app yours. Calculate how long it takes to implement these features and triple the time estimated. That way you’ll have plenty of time to finish. It is preferred to drop features and spend more time working on your MVP features if needed.
+
+-   - onboaring process, a "values" page, a top priority page, a "current tasks" page for the user, values/tasks comparison page, ability to easily edit or delete all data. 
