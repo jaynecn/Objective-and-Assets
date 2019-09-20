@@ -4,9 +4,13 @@ Ask the following question, to one participant at a time: "If you were able to t
 
 - Where would you go?
 * Roman - To the Future
+* Samir - To the Past
 - If backward, to which time period? Why?
 * Roman - I would go to the Future
+* Samir - I would go to different important historical periods. 
 - If there was a person you could go back in time and meet, who would it be, and why?
 * Roman - Tesla
+* Samir - Isaac Newton
 - Would you just want to visit and come back, or would you stay?"
 * Roman - Round Trip
+* Samir - Round trip 
